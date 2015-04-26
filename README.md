@@ -17,5 +17,5 @@ Prior to running the code, you should define the working directory (step 1.1) yo
        3.2 merges training and test datasets into one dataset
        3.3 label the dataset with descriptive activity names
        3.4 extract the mean and standard deviation for each measurement. 
-       3.5 Create a tidy dataset with the average of each variable for each activity       and each subject. 
+       3.5 Create a tidy dataset with the average of each variable for each activity and each subject. 
 
